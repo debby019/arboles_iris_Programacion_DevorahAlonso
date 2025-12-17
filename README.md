@@ -19,8 +19,8 @@ Cada flor contiene 4 atributos numericos:
 
 
 En el codigo se dividio la informacion en 2 partes:  
-X: contiene las caracteristicas de las flores
-Y: contiene las clases/etiquetas de cada flor  
+X: contiene las caracteristicas de las flores    
+Y: contiene las clases/etiquetas de cada flor    
 
 El programa imprime un arbol de decision con profundidad limitada (2 niveles) y uno con profundidad ilimitada en consola.  
 Tambien crea un archivo llamado arbol_iris.png donde se puede observar el arbol de 2 niveles.
